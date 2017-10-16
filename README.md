@@ -1,9 +1,9 @@
-#Solucion a Tarea 1 - Study jam
+##Solucion a Tarea 1 - Study jam
 
 Dentro de este repositorio se encuentra la Tarea del 1 del Study Jam, CopyApp en el
 cual hacemos una copia de interfaz grafica de una aplicacion movil.
 
-## Requerimientos
+# Requerimientos
 
   * Android Studio 2.3
   * Gradle 2.3
